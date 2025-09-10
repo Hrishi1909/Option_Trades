@@ -6,7 +6,7 @@ Created on Fri Sep  5 15:51:38 2025
 """
 
 # Chunk 1 Started - Imports and Configuration
-!pip install plotly
+
 import streamlit as st
 import requests
 import pandas as pd
@@ -1741,4 +1741,5 @@ if __name__ == "__main__":
 
 
 # Chunk 10 Ended - Final - Main Function Call
+
 
